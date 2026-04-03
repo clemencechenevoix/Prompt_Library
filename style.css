@@ -1,0 +1,15 @@
+table{
+    background-color: black;
+}
+
+tr{
+    background: blue;
+}
+
+th{
+    background: purple;
+}
+
+td{
+    background: red;
+}
