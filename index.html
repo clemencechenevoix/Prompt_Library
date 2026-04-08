@@ -4,10 +4,12 @@
             Prompt_Library
         </title>
         <link href = "./style.css" rel = "stylesheet">
+        <script defer src = "./app.js"></script>
     </head>
 
     <body>
         <h2>Prompts library</h2>
+        <p>The prompts : </p>
         <table id = "Table_json_prompts">
             <tr>
                 <th>Title</th>
@@ -16,7 +18,26 @@
             </tr>
         </table>
 
-        <script src = "./app.js">
-        </script>
+        <p>Your prompts : </p>
+        <table id="Table_prompts_to_add">
+            <tr>
+                <th>Title</th>
+                <th>Category</th>
+                <th>Prompt</th>
+            </tr>
+        </table>
+
+        <form id="Prompt_form">
+            <label>Title</label>
+            <input type="text" id="title" placeholder="The title of your prompt" required>
+            
+            <label for="category">Category</label>
+            <input type="text" id="category" placeholder="The category of your prompt" required>
+            
+            <label for="prompt">Prompt</label>
+            <input type="text" id="prompt" placeholder="Your prompt" required>
+            
+            <button id="submit_button">Submit</button>
+        </form>
     </body>
 </html>
