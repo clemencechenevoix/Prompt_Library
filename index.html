@@ -8,33 +8,33 @@
     </head>
 
     <body>
-        <h2>Prompts library</h2>
-        <p>The prompts : </p>
+-        <h2><u>PROMPTS LIBRARY</u></h2>
+        <p>The prompts: </p>
         <table id = "Table_json_prompts">
             <tr>
-                <th>Title</th>
-                <th>Category</th>
-                <th>Prompt</th>
+                <th class="table_title">Title</th>
+                <th class="table_category">Category</th>
+                <th class="table_prompt">Prompt</th>
             </tr>
         </table>
 
-        <p>Your prompts : </p>
-        <table id="Table_prompts_to_add">
+        <p>Your prompts: </p>
+        <table id= "Table_prompts_to_add">
             <tr>
-                <th>Title</th>
-                <th>Category</th>
-                <th>Prompt</th>
+                <th class="table_title">Title</th>
+                <th class="table_category">Category</th>
+                <th class="table_prompt">Prompt</th>
             </tr>
         </table>
 
         <form id="Prompt_form">
-            <label>Title</label>
+            <label>title: </label>
             <input type="text" id="title" placeholder="The title of your prompt" required>
             
-            <label for="category">Category</label>
+            <label for="category">category: </label>
             <input type="text" id="category" placeholder="The category of your prompt" required>
             
-            <label for="prompt">Prompt</label>
+            <label for="prompt">prompt: </label>
             <input type="text" id="prompt" placeholder="Your prompt" required>
             
             <button id="submit_button">Submit</button>
