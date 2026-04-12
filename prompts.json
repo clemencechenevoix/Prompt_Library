@@ -1,27 +1,27 @@
 [
   {
-    "title": "Comment faire un clafouti",
-    "category": "Cuisine",
-    "prompt": "Donne moi la liste des ingrédients d'un clafouti et sa recette"
+    "title": "How to bake a clafouti",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a clafouti"
   },
   {
-    "title": "Comment faire un gateau au yaourt",
-    "category": "Cuisine",
-    "prompt": "Donne moi la liste des ingrédients d'un gateau au yaourt et sa recette"
+    "title": "How to bake a Yogurt cake",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Yogurt cake"
   },
   {
-    "title": "Comment faire un fraisier",
-    "category": "Cuisine",
-    "prompt": "Donne moi la liste des ingrédients d'un fraisier et sa recette"
+    "title": "How to bake a Strawberry cream cake ",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Strawberry cream cake "
   },
   {
-    "title": "Comment faire une poire belle hélène",
-    "category": "Cuisine",
-    "prompt": "Donne moi la liste des ingrédients d'une poire belle hélène et sa recette"
+    "title": "How to bake a Poire Belle-Hélène",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Poire Belle-Hélène"
   },
   {
-    "title": "Comment faire un fondant au chocolat",
-    "category": "Cuisine",
-    "prompt": "Donne moi la liste des ingrédients d'un fondant au chocolat et sa recette"
+    "title": "How to bake a Poire Chocolate cake",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Chocolate cake"
   }
 ]
