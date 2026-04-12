@@ -1,0 +1,27 @@
+[
+  {
+    "title": "How to bake a Clafouti",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Clafouti"
+  },
+  {
+    "title": "How to bake a Yogurt cake",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Yogurt cake"
+  },
+  {
+    "title": "How to bake a Strawberry cream cake ",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Strawberry cream cake "
+  },
+  {
+    "title": "How to bake a Poire Belle-Hélène",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Poire Belle-Hélène"
+  },
+  {
+    "title": "How to bake a Poire Chocolate cake",
+    "category": "Cooking",
+    "prompt": "Give me the list of the ingredients and the recipy for a Chocolate cake"
+  }
+]
