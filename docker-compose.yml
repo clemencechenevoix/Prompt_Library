@@ -1,5 +1,6 @@
 services :
   prompt_library :
-    build : .
+    build : 
+      dockerfile: Dockerfile
     ports :
       - "8080:80"
