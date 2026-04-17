@@ -1,0 +1,26 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ "main","develop" ]
+  pull_request:
+    branches: [ "main","develop" ]
+
+jobs:
+
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Build the Docker image
+      run: 
+        echo "Build the Docker image"
+        docker-compose up -d
+
+
+    - name: Check the Docker image
+      run: 
+        echo "Check the Docker image"
+        docker ps
