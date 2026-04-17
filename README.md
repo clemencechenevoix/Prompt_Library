@@ -34,7 +34,7 @@ To install the project you will need to do 4 steps:
 localhost:8080
 ```
 
-- To stop the process pre "CTRL + C"
+- To stop the process press "CTRL + C"
 
 ## Usage
 You can read the prompt and copy paste it in an AI if you want to use them.
